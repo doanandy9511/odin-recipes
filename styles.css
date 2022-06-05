@@ -1,0 +1,11 @@
+a {
+    color: green;
+    font-weight: 700;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#title {
+    color: blue;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
